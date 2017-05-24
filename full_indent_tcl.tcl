@@ -138,7 +138,3 @@ if { $op == "-d" } {
 } else {
 	puts "Invalid command type"
 }
-
-
-
-
